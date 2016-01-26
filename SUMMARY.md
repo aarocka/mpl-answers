@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* Chapter4
+* [Chapter4](chapter4.md)
 
