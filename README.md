@@ -1,4 +1,4 @@
 My Awesome Book
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is awesome, we finally have a place to share answers for My Programming Lab/Turing's Craft questions all in one place. The goal is to have one repo with all solutions for C++/Java and eventually covering Python, C, JavaScript, C#, VB and SQL.
