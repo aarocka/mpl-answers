@@ -4,11 +4,7 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 
 ```Java
 import java.util.Scanner;
-/**
- * @author Aaron Kolker
- * @version 1.0.0
- * Comment
- */
+
 public class RomanNumerals {
 
     public static void main(String[] args) {
@@ -134,12 +130,6 @@ public class Runners {
 }```
 
 ```Java
-/**
- * @author Aaron Kolker
- * @version 1.0.0
- * TheSpeedOfSound
- */
-
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 //import java.io.*;
