@@ -4,5 +4,5 @@
 * [Chapter3](chapter3.md)
 * [Chapter4](chapter4.md)
 * [Chapter5](chapter5.md)
-* Chapter6
+* [Chapter6](chapter6.md)
 
